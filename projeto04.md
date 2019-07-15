@@ -17,7 +17,7 @@ Seguindo a proposta dos projetos anteriores, estaremos usando para desenvolver o
 ## Instalando a extensão Taifun Tools
 Para criar o nosso aplicativo contendo gráficos, será necessária a utilização de algumas funções nativas do smartphone. Para possibilitar essas funções vamos precisar adicionar a extensão “Taifun Tools” no projeto do Thunkable. A instalação dessa extensão pode ser feita conforme explicado a seguir:
 
-1. Baixe o arquivo .aix da extensão Taifun Tools através do link: https://downloads.sourceforge.net/project/puravidaapps/com.puravidaapps.TaifunTools.aix .
+1. Baixe o arquivo .aix da extensão Taifun Tools através do link: [TaifunTools.aix](https://downloads.sourceforge.net/project/puravidaapps/com.puravidaapps.TaifunTools.aix) .
 
 2. Após o download, na paleta do seu projeto clique na opção “Extension” no menu e em seguida em “Import extension”, conforme a imagem:
 
@@ -38,7 +38,7 @@ Para criar o nosso aplicativo contendo gráficos, será necessária a utilizaç�
 6. Com o componente da extensão adicionada ao seu app, você já terá acesso aos recursos dessa extensão, tanto na aba “Designer” da plataforma, quanto na aba “Blocos”.
 
 ## Adicionando blocos para gráficos
-Nativamente a plataforma Thunkable não possui o componente de gráficos e, para possibilitar essa recurso no aplicativo estaremos utilizando uma implementação independente de um usuário (https://community.thunkable.com/u/kevinkun) da comunidade Thunkable. A seguir os passos para adicionar a funcionalidade de gráficos ao seu projeto.
+Nativamente a plataforma Thunkable não possui o componente de gráficos e, para possibilitar essa recurso no aplicativo estaremos utilizando uma implementação independente do um usuário [kevinkun](https://community.thunkable.com/u/kevinkun) da comunidade Thunkable. A seguir os passos para adicionar a funcionalidade de gráficos ao seu projeto.
 
 1. Faça o download do arquivo [Chartjs3.aia](https://community.thunkable.com/uploads/default/original/3X/b/f/bfea0e08a6ebdee3f01fd7ceea1865acf47494a8.aia ).
 
